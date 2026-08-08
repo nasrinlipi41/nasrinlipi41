@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nasrin Lipi 👋
 
-<!--
-**nasrinlipi41/nasrinlipi41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer | TypeScript Enthusiast**
 
-Here are some ideas to get you started:
+I'm a developer who enjoys learning through building, exploring new technologies, and turning ideas into practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+`TypeScript` `JavaScript` `HTML` `CSS`
+
+### 🌱 Currently Learning
+
+* Web development
+* Software engineering
+* Modern JavaScript and TypeScript
+* Open-source development
+
+### 📈 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrinlipi41\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinlipi41\&layout=compact\&theme=tokyonight)
+
+---
+
+> **Learn. Build. Improve. 🚀**
