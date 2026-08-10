@@ -17,9 +17,9 @@ I'm a developer who enjoys learning through building, exploring new technologies
 
 ### 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats-ahnafsaikat.vercel.app/api?username=nasrinlipi41\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-bay-three-12.vercel.app/api?username=nasrinlipi41\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-ahnafsaikat.vercel.app/api/top-langs/?username=nasrinlipi41\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-bay-three-12.vercel.app/api/top-langs/?username=nasrinlipi41\&layout=compact\&theme=tokyonight)
 
 ---
 
